@@ -1,6 +1,6 @@
 ### Hola ! Bienvenidx a mi página de GitHub
-🎓 Estudiante de Biología Ambiental en la Universidad Autónoma de Barcelona  
+🎓 Soy estudiante de Biología Ambiental en la Universidad Autónoma de Barcelona  
 🌱 Apasionada por la ecología y el análisis de datos  
 💻 Aprendiendo R, Python y SIG  
-🌍 Interesada en proyectos de cambio climático, biodiversidad y conservación  
-
+🐄 Interesada en proyectos de cambio climático, biodiversidad y conservación  
+😊 Aquí encontrarás proyectos que he hecho en la universidad o por mi cuenta
